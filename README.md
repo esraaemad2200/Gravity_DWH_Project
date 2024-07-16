@@ -1,7 +1,7 @@
 **Description**
 Data WArehouse  End-to-End Project repository 'gravity_books_dwh' using a star schema, implemented SQL integrity checks, added a date dimension, and created ETL (Extract, Transform, Load) by SSIS for efficient data population and SSAS for multidimensional cube browsing.
 
-**Skills**
+**Skills Used in the project**
 ETL - SSIS - SSAS - Data Modeling - SQL
 
 **Screenshoots**
